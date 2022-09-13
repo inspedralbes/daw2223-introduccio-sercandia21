@@ -6,6 +6,7 @@ Us presentem als professors de [l'institut](https://www.institutpedralbes.cat/):
  2. Albert
  3. Lluis
  4. Gurpreet
+ 5. Pepe
 
  ## Assignatures:
  1. Base de Dades
