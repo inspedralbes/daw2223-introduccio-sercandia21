@@ -15,7 +15,6 @@ Us presentem als professors de [l'institut](https://www.institutpedralbes.cat/):
  1. Base de Dades
  2. Desplegament d'aplicacions web
  3. Desenvolupament entorn servidor.
- 4. Disseny Web
- 5. Programacion
+
  
 
