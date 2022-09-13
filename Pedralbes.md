@@ -6,17 +6,10 @@ Us presentem als professors de [l'institut](https://www.institutpedralbes.cat/):
  2. Albert
  3. Lluis
  4. Gurpreet
- 5. Pepa
- 6. Carles
- 5. Pepe
- 6. Lluis
- 
-
  ## Assignatures:
  1. Base de Dades
  2. Desplegament d'aplicacions web
  3. Desenvolupament entorn servidor.
- 4. dñlsdasdkl
 
  
 
