@@ -9,9 +9,7 @@ Us presentem als professors de [l'institut](https://www.institutpedralbes.cat/):
  5. Pepa
  6. Carles
  5. Pepe
- 6. yoli
- 7. Marc
- 8. Marta
+ 
 
  ## Assignatures:
  1. Base de Dades
